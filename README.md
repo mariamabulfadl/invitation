@@ -25,4 +25,4 @@ For a custom domain, set `NEXT_PUBLIC_SITE_URL` to its full URL in Vercel so Ope
 
 Import this folder as a Next.js project. No special build settings are required. Run `npm run build` before deployment.
 
-The hero art and editorial venue visual were generated from the supplied invitation and SOLA venue references. The generated venue image is an interpretation, not a documentary photograph of the venue. The supplied invitation is retained at `public/images/invitation-reference.jpg`.
+The hero art and editorial venue visual were generated from the supplied invitation and SOLA venue references. The generated venue image is an interpretation, not a documentary photograph of the venue.

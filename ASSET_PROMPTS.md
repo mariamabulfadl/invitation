@@ -1,0 +1,21 @@
+# Generated asset prompts
+
+Generated with the built-in ImageGen tool using the supplied invitation and three SOLA venue references.
+
+## `public/images/hero-frame.webp`
+
+> Use case: stylized-concept. Asset type: website hero decorative background, no text. Reference image 1 is the printed invitation and must set the floral palette, parchment and lantern aesthetic. Reference images 2-4 show the actual SOLA venue and guide the terracotta drapery, arabesque lanterns, arches and warm candlelight. Create an exquisite wide cinematic luxury engagement invitation scene, symmetrical but organic: dense burgundy, coral, burnt orange and blush roses with dark foliage framing the upper left and top edge; graceful translucent burnt orange drapery at far sides; two suspended antique brass Moroccan lanterns on the right; a small floor lantern and candles lower left; complementary flowers lower right. Vast warm ivory parchment center must be completely empty for live webpage typography, especially central 55% width and 70% height. Soft paper texture, warm gold shadows, subtle leaf shadows, premium editorial realism. Do not copy image 1's lettering or place any text, logos, watermarks, people or modern objects. Intended for a responsive website and cropped adaptively.
+
+## `public/images/sola-editorial.webp`
+
+> Use case: photorealistic-natural. Asset type: cinematic editorial website photograph of the SOLA engagement venue. Input reference images 1-3 show the real venue concept; use their visual architecture and decorations. Create a clean, straight-on wide view through ornate warm ivory Middle Eastern arches into a lavish evening celebration space. Terracotta and deep red fabric draped overhead, abundant hanging burgundy, coral and blush flowers, dark greenery, antique brass Moroccan lanterns and candle glow, floral aisle leading to a symmetrical arched stage. Luxurious warm amber lighting, rich photographic detail, romantic depth, no people. Carefully avoid presentation screen borders, screenshot artifacts, logos, typography, watermarks, UI, overly surreal structures. Realistic premium architectural event photography, wide landscape composition.
+
+The generated venue scene is interpretive artwork based on the references, not a photograph of the actual venue.
+
+## `public/images/floral-near-top.webp`
+
+> Use case: stylized-concept. Asset type: transparent foreground floral layer for the upper-left corner of a luxury engagement invitation website. Reference image 1 is the printed invitation; reference image 2 is the generated website hero frame. Create a richly detailed botanical garland growing in from the TOP and LEFT edges: large peach and blush roses, burgundy dahlias, burnt-orange and coral blossoms, a few tiny pink flowers, graceful dark olive-green leaves and delicate trailing vines. Warm candlelit editorial realism, refined and romantic, matching the references. The flowers should occupy the top-left corner and taper naturally toward the center, leaving the lower-right area empty. Isolated cutout with genuine transparent alpha background, soft natural edges and no opaque canvas, paper, shadow rectangle, text, logo, frame, lantern, people or watermark. This will float subtly over an existing hero background, so keep the composition elegant and not too dense.
+
+## `public/images/floral-near-bottom.webp`
+
+> Use case: stylized-concept. Asset type: transparent foreground floral layer for the lower-right edge of a luxury engagement invitation website. Reference image 1 is the printed invitation; reference image 2 is the generated website hero frame. Create an elegant airy cluster growing in from the BOTTOM and RIGHT edges: three or four large peach/blush roses, a burgundy dahlia, smaller coral and burnt-orange blossoms, tiny pink flowers, and dark olive-green leaves with trailing stems. Warm candlelit editorial realism, the same flower species and palette as the references. Cluster should occupy the lower-right corner and taper organically toward the upper-left; most of the canvas is transparent. Isolated cutout with genuine transparent alpha background, soft natural edges. No opaque canvas, parchment, frame, lantern, text, logo, people or watermark. Intended as a subtle foreground layer over the existing hero image.
